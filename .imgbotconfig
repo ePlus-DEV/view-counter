@@ -1,4 +1,6 @@
-"ignoredFiles": [
-    "*.png",
-    "*.svg"
-]
+{
+    "ignoredFiles": [
+        "*.png",
+        "*.svg"
+    ]
+}
