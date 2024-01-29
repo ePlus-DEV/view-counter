@@ -1,4 +1,4 @@
 "ignoredFiles": [
-    "graph/*",
-    "svg/*"
+    "*.png",
+    "*.svg
 ]
