@@ -3,6 +3,10 @@
   "advancedMode": true,
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "news",
+    "github-profile-views-counter-action",
+    "github-profile-views-counter-template",
+    "view-counter",
+    "weather-forecast"
   ]
 }
