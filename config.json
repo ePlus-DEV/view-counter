@@ -3,12 +3,12 @@
   "advancedMode": true,
   "language": "en-US",
   "repository": [
-    ".github",
     "news",
     "github-profile-views-counter-action",
     "github-profile-views-counter-template",
     "view-counter",
     "weather-forecast",
-    "top-github-users"
+    "top-github-users",
+    ".github"
   ]
 }
