@@ -1,8 +1,8 @@
 ## [🔙 view-counter](https://github.com/ePlus-DEV/view-counter)
-| [**Week →**](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md) | [**Month →**](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/month.md) | [**Year →**](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/year.md) |
+| [**Week →**](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/week.md) | [**Month →**](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/month.md) | [**Year →**](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [github-profile-views-counter-template](https://github.com/ePlus-DEV/github-profile-views-counter-template)
-![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/graph/749706189/large/week.png)
+### :octocat: [top-github-users](https://github.com/ePlus-DEV/top-github-users)
+![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -35,10 +35,10 @@
 			<code>2024/1/29</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>5</code>
 		</td>
 	</tr>
 	<tr>
@@ -110,18 +110,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/30 1:24 AM UTC</i></small>
+<small><i>Last updated on 2024/1/30 1:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749706189/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md)
+[![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/week.md)
 ```readme
-[![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749706189/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md)
+[![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/week.md)
 ```
 ### Header
-# github-profile-views-counter-template [<img alt="Image of view-counter" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749706189/small/week.png" height="20">](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md)
+# top-github-users [<img alt="Image of view-counter" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="20">](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/week.md)
 ```readme
-# github-profile-views-counter-template [<img alt="Image of view-counter" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749706189/small/week.png" height="20">](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md)
+# top-github-users [<img alt="Image of view-counter" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="20">](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749591754/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/ePlus-DEV/github-profile-views-counter-template)
 ## ⛔ DO NOT
