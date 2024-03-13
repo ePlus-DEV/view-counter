@@ -178,10 +178,10 @@
 			<code>2024/2/28</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/3/13 1:58 PM UTC</i></small>
+<small><i>Last updated on 2024/3/13 2:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
