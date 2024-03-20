@@ -69,6 +69,22 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749818534/week.md">
+				view-counter
+			</a>
+		</td>
+		<td>
+			2024/3/18 1:19 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749818534/small/week.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/691005143/week.md">
 				weather-forecast
 			</a>
@@ -81,6 +97,22 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/691005143/small/week.png" height="20"> 79
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749591754/week.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2024/3/18 12:00 AM UTC
+		</td>
+		<td>
+			43
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 112
 		</td>
 	</tr>
 	<tr>
@@ -101,7 +133,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/3/20 5:38 PM UTC</i></small>
+<small><i>Last updated on 2024/3/20 5:50 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
