@@ -99,41 +99,9 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/691005143/small/week.png" height="20"> 92
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749591754/week.md">
-				top-github-users
-			</a>
-		</td>
-		<td>
-			2024/4/3 1:16 AM UTC
-		</td>
-		<td>
-			47
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 116
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/685088620/week.md">
-				.github
-			</a>
-		</td>
-		<td>
-			2024/4/3 1:16 AM UTC
-		</td>
-		<td>
-			15
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 54
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/4/5 7:55 AM UTC</i></small>
+<small><i>Last updated on 2024/4/5 8:16 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
