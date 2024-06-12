@@ -42,7 +42,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/9 12:37 AM UTC
+			2024/6/10 12:55 AM UTC
 		</td>
 		<td>
 			4
@@ -58,7 +58,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/9 12:37 AM UTC
+			2024/6/10 12:55 AM UTC
 		</td>
 		<td>
 			3
@@ -74,7 +74,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/9 12:37 AM UTC
+			2024/6/10 12:55 AM UTC
 		</td>
 		<td>
 			32
@@ -90,13 +90,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/9 12:38 AM UTC
+			2024/6/10 12:00 AM UTC
 		</td>
 		<td>
-			54
+			56
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/691005143/small/week.png" height="20"> 180
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/691005143/small/week.png" height="20"> 182
 		</td>
 	</tr>
 	<tr>
@@ -106,13 +106,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/9 12:00 AM UTC
+			2024/6/10 12:00 AM UTC
 		</td>
 		<td>
-			80
+			82
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 183
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 188
 		</td>
 	</tr>
 	<tr>
@@ -122,18 +122,18 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/9 12:38 AM UTC
+			2024/6/10 12:00 AM UTC
 		</td>
 		<td>
-			24
+			25
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 86
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 88
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/11 11:51 PM UTC</i></small>
+<small><i>Last updated on 2024/6/12 12:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
