@@ -26,7 +26,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/17 12:41 AM UTC
+			2024/6/18 1:21 AM UTC
 		</td>
 		<td>
 			209
@@ -133,7 +133,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/20 12:02 AM UTC</i></small>
+<small><i>Last updated on 2024/6/20 1:34 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
