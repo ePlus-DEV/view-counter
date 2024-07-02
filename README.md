@@ -26,13 +26,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:34 AM UTC
+			2024/6/30 12:00 AM UTC
 		</td>
 		<td>
-			212
+			215
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/745030381/small/week.png" height="20"> 618
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/745030381/small/week.png" height="20"> 623
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:34 AM UTC
+			2024/6/30 12:31 AM UTC
 		</td>
 		<td>
 			6
@@ -58,7 +58,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:35 AM UTC
+			2024/6/30 12:31 AM UTC
 		</td>
 		<td>
 			4
@@ -74,7 +74,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:00 AM UTC
+			2024/6/30 12:31 AM UTC
 		</td>
 		<td>
 			35
@@ -90,7 +90,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:35 AM UTC
+			2024/6/30 12:31 AM UTC
 		</td>
 		<td>
 			59
@@ -106,7 +106,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:36 AM UTC
+			2024/6/30 12:32 AM UTC
 		</td>
 		<td>
 			98
@@ -122,18 +122,18 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2024/6/29 12:36 AM UTC
+			2024/6/30 12:00 AM UTC
 		</td>
 		<td>
-			29
+			30
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 95
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 96
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/7/1 11:59 PM UTC</i></small>
+<small><i>Last updated on 2024/7/2 1:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
