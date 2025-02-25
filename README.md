@@ -21,22 +21,6 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/745030381/week.md">
-				news
-			</a>
-		</td>
-		<td>
-			2025/2/23 1:56 AM UTC
-		</td>
-		<td>
-			377
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/745030381/small/week.png" height="20"> 1353
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749627856/week.md">
 				github-profile-views-counter-action
 			</a>
@@ -133,7 +117,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/25 3:41 AM UTC</i></small>
+<small><i>Last updated on 2025/2/25 3:52 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
