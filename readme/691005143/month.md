@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/15</code>
+			<code>2025/6/16</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,18 +32,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/14</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-		<td>
-			<code>9</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/13</code>
+			<code>2025/6/15</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -54,18 +43,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/12</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-		<td>
-			<code>13</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/11</code>
+			<code>2025/6/14</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -76,7 +54,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/10</code>
+			<code>2025/6/13</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -87,7 +65,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/9</code>
+			<code>2025/6/12</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -98,7 +76,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/8</code>
+			<code>2025/6/11</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -109,29 +87,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/7</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/6</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/5</code>
+			<code>2025/6/10</code>
 		</td>
 		<td>
 			<code>1</code>
@@ -142,7 +98,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/4</code>
+			<code>2025/6/9</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -153,7 +109,18 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/3</code>
+			<code>2025/6/8</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/6/7</code>
 		</td>
 		<td>
 			<code>1</code>
@@ -164,7 +131,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/2</code>
+			<code>2025/6/6</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -175,40 +142,18 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/31</code>
+			<code>2025/6/5</code>
 		</td>
 		<td>
 			<code>1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/30</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/29</code>
+			<code>2025/6/4</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -219,7 +164,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/28</code>
+			<code>2025/6/3</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -230,7 +175,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/27</code>
+			<code>2025/6/2</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -241,7 +186,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/26</code>
+			<code>2025/6/1</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -252,7 +197,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/25</code>
+			<code>2025/5/31</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -263,7 +208,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/24</code>
+			<code>2025/5/30</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -274,7 +219,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/23</code>
+			<code>2025/5/29</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -285,7 +230,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/22</code>
+			<code>2025/5/28</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -296,7 +241,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/21</code>
+			<code>2025/5/27</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -307,7 +252,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/20</code>
+			<code>2025/5/26</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -318,7 +263,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/19</code>
+			<code>2025/5/25</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -329,7 +274,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/18</code>
+			<code>2025/5/24</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -340,7 +285,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/17</code>
+			<code>2025/5/23</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -351,7 +296,62 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/16</code>
+			<code>2025/5/22</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/5/21</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/5/20</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/5/19</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/5/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/5/17</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/15 12:40 PM UTC</i></small>
+<small><i>Last updated on 2025/6/16 1:52 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
