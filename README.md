@@ -26,13 +26,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			425
+			426
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/745030381/small/week.png" height="20"> 1444
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/745030381/small/week.png" height="20"> 1446
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 2:20 AM UTC
+			2025/7/1 1:42 AM UTC
 		</td>
 		<td>
 			14
@@ -58,7 +58,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 2:21 AM UTC
+			2025/7/1 1:42 AM UTC
 		</td>
 		<td>
 			32
@@ -74,7 +74,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 2:21 AM UTC
+			2025/7/1 1:42 AM UTC
 		</td>
 		<td>
 			131
@@ -90,7 +90,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 1:43 AM UTC
 		</td>
 		<td>
 			153
@@ -106,13 +106,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			525
+			528
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 940
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 943
 		</td>
 	</tr>
 	<tr>
@@ -122,7 +122,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
 			113
@@ -133,7 +133,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/2 11:57 PM UTC</i></small>
+<small><i>Last updated on 2025/7/3 1:30 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
