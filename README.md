@@ -106,13 +106,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/7/10 12:00 AM UTC
+			2025/7/11 12:00 AM UTC
 		</td>
 		<td>
-			543
+			545
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 960
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 963
 		</td>
 	</tr>
 	<tr>
@@ -122,18 +122,18 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2025/7/10 1:30 AM UTC
+			2025/7/11 12:00 AM UTC
 		</td>
 		<td>
-			113
+			114
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 241
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 242
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/12 11:48 PM UTC</i></small>
+<small><i>Last updated on 2025/7/13 12:01 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
