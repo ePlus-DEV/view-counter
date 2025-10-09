@@ -67,73 +67,9 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749706189/small/week.png" height="20"> 73
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749818534/week.md">
-				view-counter
-			</a>
-		</td>
-		<td>
-			2025/10/7 12:00 AM UTC
-		</td>
-		<td>
-			152
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749818534/small/week.png" height="20"> 254
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/691005143/week.md">
-				weather-forecast
-			</a>
-		</td>
-		<td>
-			2025/10/7 12:00 AM UTC
-		</td>
-		<td>
-			194
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/691005143/small/week.png" height="20"> 488
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749591754/week.md">
-				top-github-users
-			</a>
-		</td>
-		<td>
-			2025/10/7 1:52 AM UTC
-		</td>
-		<td>
-			730
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 1212
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/685088620/week.md">
-				.github
-			</a>
-		</td>
-		<td>
-			2025/10/7 12:00 AM UTC
-		</td>
-		<td>
-			131
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 259
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/10/9 1:10 PM UTC</i></small>
+<small><i>Last updated on 2025/10/9 1:41 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
