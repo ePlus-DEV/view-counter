@@ -115,25 +115,9 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 1348
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/685088620/week.md">
-				.github
-			</a>
-		</td>
-		<td>
-			2025/12/16 12:02 AM UTC
-		</td>
-		<td>
-			138
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/685088620/small/week.png" height="20"> 266
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/18 1:59 PM UTC</i></small>
+<small><i>Last updated on 2025/12/18 2:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
