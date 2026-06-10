@@ -53,6 +53,22 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749706189/week.md">
+				github-profile-views-counter-template
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:04 AM UTC
+		</td>
+		<td>
+			72
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749706189/small/week.png" height="20"> 95
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749818534/week.md">
 				view-counter
 			</a>
@@ -85,6 +101,22 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/749591754/week.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:06 AM UTC
+		</td>
+		<td>
+			995
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="20"> 1523
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/ePlus-DEV/view-counter/tree/main/readme/685088620/week.md">
 				.github
 			</a>
@@ -101,7 +133,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 4:01 PM UTC</i></small>
+<small><i>Last updated on 2026/6/10 6:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
